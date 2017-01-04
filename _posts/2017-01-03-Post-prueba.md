@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Post Prueba
 date: 2017-01-03
 ---
