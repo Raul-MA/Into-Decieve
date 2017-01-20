@@ -17,4 +17,14 @@ title: Contact RID
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">
   </form>
+  
+<form action="https://formspree.io/into.deceive@gmail.com" method="POST">
+   <label for="name">Name</label>   
+   <input type="text" name="name" id="name" class="full-width"><br>
+    <label for="email">Email Address</label>
+    <input type="email" name="_replyto" id="email" class="full-width"><br> 
+    <label for="message">Message</label>
+    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
+    <input type="submit" value="Send" class="button">
+</form> 
 </div>
