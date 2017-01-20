@@ -63,7 +63,6 @@ font-style:italic
 }
 
 h1 {
-color: #c83836;
 font-size:2em;
 line-height:1.5em;
 margin-top:.75em;
@@ -805,6 +804,7 @@ text-decoration:none
 }
 
 .post .postTitle {
+color: #c83836;
 text-align:center;
 margin-top:2rem;
 margin-bottom:1rem
