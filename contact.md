@@ -8,7 +8,7 @@ title: Contact RID
   <div class="contactContent">
     <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
   </div>
-  <form action="http://formspree.io/into.decieve@gmail.com" method="POST">
+  <form action="http://formspree.io/into.deceive@gmail.com" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
